@@ -1,11 +1,11 @@
-## Conway's Game of Life
+# Conway's Game of Life
 
 - [History](#history)
 - [Explication](#explication)
 - [Examples](#examples)
 
-# History
+## History
 
-# Explication 
+## Explication 
 
-# Examples
+## Examples
