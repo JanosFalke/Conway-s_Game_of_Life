@@ -4,7 +4,10 @@
 - [Explication](#explication)
 - [Examples](#examples) 
   * [First](#first-example-gliders)
-  * [Second](#second-example-glmaxiders)
+  * [Second](#second-example-max)
+  * [Third](#third-example)
+  * [Fourth](#fourth-example)
+  * [Fifth](#fifth-example)
 
 
 ## History
