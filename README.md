@@ -3,6 +3,7 @@
 - [History](#history)
 - [Explication](#explication)
 - [Examples](#examples)
+- * [First](#first example)
 
 ## History
 The Game of Life is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
@@ -23,4 +24,4 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 ![Conway_First_Example](https://image.ibb.co/kwzSL7/eins.png)
 
 ### Second Example
-![Conway_Second_Example](https://preview.ibb.co/d0VpYS/zwei.png)
+![Conway_Second_Example](https://image.ibb.co/d0VpYS/zwei.png)
