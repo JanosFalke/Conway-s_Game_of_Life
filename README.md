@@ -2,7 +2,8 @@
 
 - [History](#history)
 - [Explication](#explication)
-- [Examples](#examples) * [First](#first-example)
+- [Examples](#examples) 
+* [First](#first-example)
 
 
 ## History
