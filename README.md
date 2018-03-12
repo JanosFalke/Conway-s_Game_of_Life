@@ -21,3 +21,6 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 
 ### First Example ("Gliders")
 ![Conway_First_Example](https://image.ibb.co/kwzSL7/eins.png)
+
+### Second Example
+![Conway_Second_Example](https://preview.ibb.co/d0VpYS/zwei.png)
