@@ -18,3 +18,4 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 
 
 ## Examples
+![Conway_First_Example](https://ibb.co/mUa1f7)
