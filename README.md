@@ -3,8 +3,8 @@
 - [History](#history)
 - [Explication](#explication)
 - [Examples](#examples) 
-* [First](#first-example-gliders)
-* [Second](#second-example-glmaxiders)
+  * [First](#first-example-gliders)
+  * [Second](#second-example-glmaxiders)
 
 
 ## History
