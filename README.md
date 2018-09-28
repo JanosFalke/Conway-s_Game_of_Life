@@ -26,7 +26,7 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 ## Examples
 
 ### First Example ("Gliders")
-![Conway_First_Example](https://image.ibb.co/kwzSL7/eins.png)
+![Conway_First_Example](https://image.ibb.co/iXw9Z9/Glidders.png)
 
 
 ### Second Example ("Max")
