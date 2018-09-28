@@ -45,3 +45,4 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 ![Conway_Fifth_Example](https://image.ibb.co/fjigE9/pjimage_3.jpg)
 
 
+*2018 © Janos Falke*
