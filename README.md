@@ -30,7 +30,7 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 
 
 ### Second Example ("Max")
-![Conway_Second_Example](https://ibb.co/hJJ3SU)
+![Conway_Second_Example](https://image.ibb.co/k0LHnU/pjimage.jpg)
 
 
 ### Third Example
