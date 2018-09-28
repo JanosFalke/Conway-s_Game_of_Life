@@ -37,11 +37,11 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 ![Conway_Third_Example](https://image.ibb.co/b8cNnU/pjimage_2.jpg)
 
 
-### Fourth Example ("Spaceship + Gliders")
+### Fourth Example ("Spaceship")
 ![Conway_Fourth_Example](https://image.noelshack.com/fichiers/2018/11/1/1520863247-funfi.png)
 
 
-### Fifth Example ("Spaceship")
+### Fifth Example ("Spaceship + Gliders")
 ![Conway_Fifth_Example](https://image.ibb.co/fjigE9/pjimage_3.jpg)
 
 
