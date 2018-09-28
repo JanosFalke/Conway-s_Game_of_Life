@@ -5,9 +5,9 @@
 - [Examples](#examples) 
   * [Gliders](#first-example-gliders)
   * [Max Function](#second-example-max)
-  * [Flower](#third-example-flowers)
+  * [Flower](#third-example-flower)
   * [Spaceship](#fourth-example-spaceship)
-  * [Spaceship + Gliders](#fifth-example-spaceship+gliders)
+  * [Spaceship + Gliders](#fifth-example-spaceship--gliders)
 
 
 ## History
