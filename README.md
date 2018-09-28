@@ -34,11 +34,11 @@ The "game" is a zero-player game, meaning that its evolution is determined by it
 
 
 ### Third Example
-![Conway_Third_Example](https://image.ibb.co/fdtMf7/drei.png)
+![Conway_Third_Example](https://image.ibb.co/b8cNnU/pjimage_2.jpg)
 
 
 ### Fourth Example
-![Conway_Fourth_Example](https://image.ibb.co/fjDySn/vier.png)
+![Conway_Fourth_Example](https://image.ibb.co/fjigE9/pjimage_3.jpgg)
 
 
 ### Fifth Example
